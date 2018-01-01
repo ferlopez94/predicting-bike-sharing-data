@@ -22,7 +22,7 @@ Now run
 jupyter notebook
 ```
 
-Finally, open your browser and visit localhost:8888 (or the one indicated in your terminal), and you should see all of the contents of the project. You can now open the notebook.
+Finally, open your browser and visit localhost:8888 (or the port indicated in your terminal), and you should see all of the contents of the project. You can now open the notebook.
 
 
 ## Getting started without Conda
